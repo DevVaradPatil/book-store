@@ -106,4 +106,6 @@ https://openlibrary.org/search.json?q=YOUR_QUERY&limit=10&page=1
 
 The application uses Tailwind CSS for styling. Tailwind is a utility-first CSS framework that allows for rapid UI development.
 
+---
 
+Thank you for checking out the Personal Bookshelf project!
